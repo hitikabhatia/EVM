@@ -7,4 +7,3 @@ project an EVM has been developed using core java concepts only.
 The following pictures show the flow of the execution of actual project code.
 
 ![GitHub Logo](C:\Users\Hitika bhatia\Pictures\Screenshots\Screenshot(29).png)
-Format: ![Alt Text](url)
